@@ -1,16 +1,172 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋 I'm Dayyan Saeed
+</h1>
 
-<!--
-**Dayyan-Saeed/Dayyan-Saeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineer • LLM Developer • Agentic AI • Machine Learning
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building AI systems that reason, search, retrieve and automate.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+AI+Developer;LLM+Applications;RAG+Systems;Multi-Agent+Workflows;FastAPI+Developer" />
+</p>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Dayyan Saeed
+
+Role:
+  AI Engineer
+
+Currently Building:
+  - Agentic AI Applications
+  - Multi-Agent Systems
+  - RAG Pipelines
+  - Study Abroad AI Platform
+
+Interested In:
+  - LLM Engineering
+  - AI Automation
+  - Search Systems
+  - Vector Databases
+  - GenUI
+
+Learning:
+  - AI Infrastructure
+  - Model Serving
+  - Kubernetes
+```
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+```
+OpenAI
+Gemini
+LangGraph
+LangChain
+CopilotKit
+DSPy
+Tavily
+RAG
+Prompt Engineering
+TruLens
+Scikit-Learn
+```
+
+---
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,docker,aws,git,github" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### ⌚ Luxury Watch AI Platform
+
+> AI-powered extraction pipeline using Tavily + Gemini
+>
+> • Automatic data extraction
+> • SQL upsert system
+> • Brand/model/reference management
+
+---
+
+### 🎓 Study Abroad AI Platform
+
+> AI Recommendation Engine
+
+Features
+
+- University Search
+- Eligibility Analysis
+- AI Recommendations
+- Crawl4AI
+- Tavily Search
+- Gemini Extraction
+
+---
+
+### 🤖 Agentic GenUI Platform
+
+Built with
+
+- CopilotKit
+- LangGraph
+- OpenAI
+- Tool Calling
+- Memory
+- Dynamic UI
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dayyan-Saeed&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayyan-Saeed&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dayyan-Saeed&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌎 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/dayyan-saeed">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dayyansaeed20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dayyan-Saeed">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> "Building intelligent systems that can think, retrieve, reason and act."
+
+</div>
