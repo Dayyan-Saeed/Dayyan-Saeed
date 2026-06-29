@@ -3,7 +3,7 @@ Hi 👋 I'm Dayyan Saeed
 </h1>
 
 <h3 align="center">
-AI Engineer • LLM Developer • Agentic AI • Machine Learning
+AI/ML Engineer • LLM Developer • Agentic AI • Machine Learning
 </h3>
 
 <p align="center">
