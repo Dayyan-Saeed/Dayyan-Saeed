@@ -3,7 +3,7 @@ Hi 👋 I'm Dayyan Saeed
 </h1>
 
 <h3 align="center">
-AI/ML Engineer • LLM Developer • Agentic AI • Machine Learning
+AI Engineer • LLM Developer • Agentic AI • Machine Learning
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@ Building AI systems that reason, search, retrieve and automate.
 Name: Dayyan Saeed
 
 Role:
-  AI Engineer
+  AI/ML Engineer
 
 Currently Building:
   - Agentic AI Applications
