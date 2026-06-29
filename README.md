@@ -11,7 +11,7 @@ Building AI systems that reason, search, retrieve and automate.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+AI+Developer;LLM+Applications;RAG+Systems;Multi-Agent+Workflows;FastAPI+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+AI+Developer;LLM+Applications;RAG+Systems;Multi-Agent+Workflows" />
 </p>
 
 ---
