@@ -28,7 +28,6 @@ Currently Building:
   - Agentic AI Applications
   - Multi-Agent Systems
   - RAG Pipelines
-  - Study Abroad AI Platform
 
 Interested In:
   - LLM Engineering
