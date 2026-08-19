@@ -82,45 +82,6 @@ Scikit-Learn
 
 ---
 
-## 📌 Featured Projects
-
-### ⌚ Luxury Watch AI Platform
-
-> AI-powered extraction pipeline using Tavily + Gemini
->
-> • Automatic data extraction
-> • SQL upsert system
-> • Brand/model/reference management
-
----
-
-### 🎓 Study Abroad AI Platform
-
-> AI Recommendation Engine
-
-Features
-
-- University Search
-- Eligibility Analysis
-- AI Recommendations
-- Crawl4AI
-- Tavily Search
-- Gemini Extraction
-
----
-
-### 🤖 Agentic GenUI Platform
-
-Built with
-
-- CopilotKit
-- LangGraph
-- OpenAI
-- Tool Calling
-- Memory
-- Dynamic UI
-
----
 
 
 ## 🌎 Connect
