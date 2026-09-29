@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋 I'm Dayyan Saeed
+Dayyan Saeed
 </h1>
 
 <h3 align="center">
