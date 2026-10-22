@@ -32,6 +32,10 @@ Building AI systems that reason, search, retrieve and automate.
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
+<a href="https://www.agensi.io/creators/dayyan-saeed">
+<img src="https://img.shields.io/badge/agensi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 
 </p>
 
